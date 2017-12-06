@@ -1,6 +1,6 @@
 # Circulizer-Demo
 
-![screen](screenshot.jpg)
+![Imgur](https://i.imgur.com/9BIcNOE.jpg)
 
 A demonstration of CC3D plugin development, resulting in a custom cell-behavior shown above. The process described in detail on my Bioinformatics Website:
 
